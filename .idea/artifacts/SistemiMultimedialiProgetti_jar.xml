@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SistemiMultimedialiProgetti:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SistemiMultimedialiProgetti_jar</output-path>
+    <root id="archive" name="SistemiMultimedialiProgetti.jar">
+      <element id="module-output" name="SistemiMultimedialiProgetti" />
+    </root>
+  </artifact>
+</component>
