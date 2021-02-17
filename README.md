@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/manuelpagliuca/PixelProcessingLib/blob/main/LICENSE) ![APM](https://img.shields.io/appveyor/build/gruntjs/grunt)
 
-An old and really simple library made in Java for the course of Multimedia Systems @UNIUPO, but i managed to load it on GitHub 🌍.
+An old and really simple library made in Java for the course of Multimedia Systems @UNIUPO A.Y. 2019/2020, but i managed to load it on GitHub 🌍.
 
 # Description 👾
 Inside the library there is a test class which is runnable and allows you to test different the transformations.
