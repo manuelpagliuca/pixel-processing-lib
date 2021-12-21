@@ -1,4 +1,4 @@
-# PixelProcessingLib 🐱‍
+# PixelProcessingLib
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/manuelpagliuca/PixelProcessingLib/blob/main/LICENSE) ![APM](https://img.shields.io/appveyor/build/gruntjs/grunt)
 
